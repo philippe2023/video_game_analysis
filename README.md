@@ -22,7 +22,9 @@ _Genre and Platform Analysis_
 # Dataset 
 
 - Scope for sales : 1994 - 2018
+- https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales
 - Scope for ratings : 1998 - 2021
+- https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic
 
 
 
