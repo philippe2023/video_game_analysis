@@ -19,12 +19,13 @@ _Genre and Platform Analysis_
 - What are the most popular game genres, and how have they evolved?
 - How do cross-platform games perform compared to platform exclusives?
 
-# Dataset 
+# Dataset & Trello
 
 - Scope for sales : 1994 - 2018
 - https://www.kaggle.com/datasets/ulrikthygepedersen/video-games-sales
 - Scope for ratings : 1998 - 2021
 - https://www.kaggle.com/datasets/deepcontractor/top-video-games-19952021-metacritic
+- Trello : https://trello.com/invite/b/66c303bde6f86f0ccb46eb21/ATTI78ad87d8d2ffa43bb568f5b0f4ca7fb5FBE8379B/video-games-project-group-4
 
 
 
